@@ -37,16 +37,12 @@ lol = "https://telegra.ph/file/ea140783bd9854833c461.jpg"
 async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
-    await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
-    await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ......")
-    await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
-    await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ......")
+    await asyncio.sleep(0.1)
+    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠..")
+    await asyncio.sleep(0.1)
+    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠...")
     await accha.delete()
-    await asyncio.sleep(0.5)
+    await asyncio.sleep(0.1)
     umm = await m.reply_sticker(
         "CAADBQADcgkAAoCLSFV4lcD251tTkwI"
     )
@@ -56,7 +52,7 @@ async def restart(client, m: Message):
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ](f"t.me/{BOT_USERNAME}")』**
    ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴍᴜᴋᴇsʜ](tg://user?id={OWNER_ID}))
+  » **ᴍʏ ᴏᴡɴᴇʀ :** [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](tg://user?id={OWNER_ID}))
   
   » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
   
