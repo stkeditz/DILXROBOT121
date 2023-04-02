@@ -279,7 +279,7 @@ async def lego(event):
         await telethn.send_file(
             event.chat_id,
             file=fname,
-            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ @{BOT_USERNAME}\n ♥︎ ᴍᴜᴋᴇsʜ ★[ᴅᴇᴠᴇʟᴏᴘᴇʀ](t.me/harmi_Mukesh)\n  ᴍᴜᴋᴇsʜ ʙᴏᴛ ᴢᴏɴᴇ★[ᴜᴘᴅᴀᴛᴇ](t.me/mukeshbotzone)",
+            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ @{BOT_USERNAME}\n ♥︎ ᴍᴜᴋᴇsʜ ★[𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](t.me/pandit_andy)\n  ᴍᴜᴋᴇsʜ ʙᴏᴛ ᴢᴏɴᴇ★[ᴜᴘᴅᴀᴛᴇ](https://t.me/CHATTINGxGROUP)",
         )
         await pesan.delete()
         if os.path.exists(fname):
@@ -292,7 +292,7 @@ __mod_name__ = "⍟ ʟᴏɢᴏ ⍟"
 
 __help__ = """
 @{BOT_USERNAME} ᴄᴀɴ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ʙᴇᴀᴜᴛɪғᴜʟ ᴀɴᴅ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ʟᴏɢᴏ ғᴏʀ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄs.
- 𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗯𝘆 ♥︎  @Mukeshbotzone
+ 𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗯𝘆 ♥︎  @Brahman_Anand
 
 ❍ /logo (Text) *:* ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢᴏ ᴏғ ʏᴏᴜʀ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴡɪᴛʜ ʀᴀɴᴅᴏᴍ ᴠɪᴇᴡ.
 """
