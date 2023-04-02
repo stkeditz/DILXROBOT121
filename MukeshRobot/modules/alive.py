@@ -10,11 +10,11 @@ from telethon import __version__ as tver
 from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID
 
 PHOTO = [
-    "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
-    "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
-    "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
-    "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
+    "https://telegra.ph/file/245e2812e8ff07391fd10.jpg",
+    "https://telegra.ph/file/1226413ee51834139b310.jpg",
+    "https://telegra.ph/file/83fa16123e7c5ae2df9e9.jpg",
+    "https://telegra.ph/file/97c64f62041be0dd0b654.jpg",
+    "https://telegra.ph/file/0417d3c1726da3c1f7c45.jpg",
 ]
 
 Mukesh = [
@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://telegra.ph/file/7773ebd713f9ba9ae71df.jpg"
+lol = "https://telegra.ph/file/ea140783bd9854833c461.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -48,7 +48,7 @@ async def restart(client, m: Message):
     await accha.delete()
     await asyncio.sleep(0.5)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+        "CAADBQADcgkAAoCLSFV4lcD251tTkwI"
     )
     await umm.delete()
     await asyncio.sleep(2)
