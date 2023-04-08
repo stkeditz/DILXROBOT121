@@ -91,15 +91,15 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="❤‍🔥𝐔𝐍𝐈𝐐𝐔𝐄 𝐂𝐎𝐌𝐌𝐎𝐍𝐃𝐒❤‍🔥", callback_data="help_back"),
+        InlineKeyboardButton(text="❤‍🔥ᴄᴏᴍᴍᴀɴᴅs❤‍🔥", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💞𝐀𝐁𝐎𝐔𝐓💞", callback_data="mukesh_"),
-        InlineKeyboardButton(text="🥺𝐂𝐇𝐀𝐓 𝐆𝐑𝐎𝐔𝐏🥺", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="💞ᴀʙᴏᴜᴛ💞", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🥺ᴄʜᴀᴛ ɢʀᴏᴜᴘ🥺", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="💖𝐎𝐖𝐍𝐄𝐑[ᴅɪʟ❣️]💖", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🥺𝐌𝐔𝐒𝐈𝐂🥺", callback_data="Music_"),
+        InlineKeyboardButton(text="💖ᴏᴡɴᴇʀ[ᴅɪʟ❣️]💖", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🥺ᴍᴜsɪᴄ🥺", callback_data="Music_"),
     ],
 ]
 
@@ -236,7 +236,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ  !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
+            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ ʙʏ ᴅɪʟ [❣️]!\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -892,7 +892,7 @@ def main():
 ㅤ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 
 ─╼⃝𖠁-----------------𖠁⃝╾─•
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [ᴅɪʟ[❣️]]("t.me/HONEY_SINGH_121")""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [ᴅɪʟ[❣️]]("https://t.me/HONEY_SINGH_121")""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
