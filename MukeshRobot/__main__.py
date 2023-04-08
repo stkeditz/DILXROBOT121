@@ -892,7 +892,7 @@ def main():
 ㅤ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 
 ─╼⃝𖠁-----------------𖠁⃝╾─•
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [ᴅɪʟ[❣️]](https://t.me//HONEY_SINGH_121)""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [ᴅɪʟ[❣️]](@HONEY_SINGH_121)""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
