@@ -76,9 +76,9 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*ʜᴇʏ* {} , [🥀](https://telegra.ph/file/a3cffc33b6d31fe020488.jpg)
+*ʜᴇʏ* {} , [🥀](https://te.legra.ph/file/5a9cbfd2a5cc7263ef747.jpg)
 *๏ ᴛʜɪs ɪs* {} !
-➻ 𝙵𝚄𝙻𝙻𝚈 𝙷𝙰𝚁𝙳 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 𝙲𝙰𝙽𝚃𝚁𝙾𝙻 📎 𝙵𝚄𝙻𝙻𝚈 𝚂𝙼𝙾𝙾𝚃𝙷 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 🖇️ 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙾𝙼𝙴 𝚄𝚂𝙴𝙵𝚄𝙻𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 .
+➻ 𝙵𝚄𝙻𝙻𝚈 𝙷𝙰𝚁𝙳 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 𝙲𝙰𝙽𝚃𝚁𝙾𝙻 📎 𝙵𝚄𝙻𝙻𝚈 𝚂𝙼𝙾𝙾𝚃𝙷 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 🖇️ 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙾𝙼𝙴 𝚄𝚂𝙴𝙵𝚄𝙻𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ʙʏ ||ᴅɪʟ|| .
 ──────────────────
 *๏ ¢ℓι¢к ση нєℓρ вυттση тσ gєт ιηƒσямαтισηѕ αвσυт тнιѕ вσт ¢σммαη∂ѕ.*
 """
@@ -86,20 +86,20 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🎈𝔸𝕕𝕕 𝕞𝕖 𝕚𝕟 𝕠𝕦𝕣 ℂ𝕙𝕒𝕥🎈",
+            text="🍃ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ🍃",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐒𝐔𝐏𝐄𝐑 𝐂𝐎𝐌𝐌𝐎𝐍𝐃𝐒⚡", callback_data="help_back"),
+        InlineKeyboardButton(text="❤‍🔥𝐔𝐍𝐈𝐐𝐔𝐄 𝐂𝐎𝐌𝐌𝐎𝐍𝐃𝐒❤‍🔥", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚜️𝐀𝐛𝐨𝐮𝐭⚜️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="🔸𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🔸", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="💞𝐀𝐁𝐎𝐔𝐓💞", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🥺𝐂𝐇𝐀𝐓 𝐆𝐑𝐎𝐔𝐏🥺", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🔹𝐌𝐮𝐬𝐢𝐜🔹", callback_data="Music_"),
+        InlineKeyboardButton(text="💖𝐎𝐖𝐍𝐄𝐑[ᴅɪʟ❣️]💖", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🥺𝐌𝐔𝐒𝐈𝐂🥺", callback_data="Music_"),
     ],
 ]
 
@@ -109,7 +109,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](f"tg://user?id={OWNER_ID}") ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [🔸𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🔸](f"https://t.me/{SUPPORT_CHAT}") ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴏᴡɴᴇʀ[ᴅɪʟ❣️]](f"tg://user?id={OWNER_ID}") ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [🥺𝐂𝐇𝐀𝐓 𝐆𝐑𝐎𝐔𝐏🥺](f"https://t.me/{SUPPORT_CHAT}") ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -373,7 +373,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
             text=f"*ʜᴇʏ,*🥀\n  *ᴛʜɪs ɪs {dispatcher.bot.first_name}*"
-            "\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ➕ ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.*"
+            "\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ➕ ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.ʙʏ ᴅɪʟ[❣️]*"
             "\n*ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.*"
             "\n\n────────────────────"
             f"\n*➻ ᴜᴩᴛɪᴍᴇ »* {uptime}"
@@ -392,7 +392,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🚩sᴜᴩᴩᴏʀᴛ🚩", callback_data="mukesh_support"
+                            text="✨sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]✨", callback_data="mukesh_support"
                         ),
                         InlineKeyboardButton(
                             text="✨ᴄᴏᴍᴍᴀɴᴅs✨", callback_data="help_back"
@@ -400,11 +400,11 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="👨‍💻ᴅᴇᴠᴇʟᴏᴩᴇʀ👨‍💻", url=f"tg://user?id={OWNER_ID}"
+                            text="🌹ᴅᴇᴠᴇʟᴏᴩᴇʀ🌹", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="☄️sᴏᴜʀᴄᴇ☄️",
-                            url="https://t.me/+vlNevhodPaU2YmRl",
+                            text="🌹sᴏᴜʀᴄᴇ🌹",
+                            url="https:/t.me/LOVE_FEELINGS_WILL",
                         ),
                     ],
                     [
@@ -422,12 +422,12 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🚩sᴜᴩᴩᴏʀᴛ🚩", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="✨sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]✨", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"tg://user?id={OWNER_ID}"
+                            text="💞ᴅᴇᴠᴇʟᴏᴩᴇʀ💞", url=f"tg://user?id={OWNER_ID}"
                         ),
                     ],
                     [
@@ -892,7 +892,7 @@ def main():
 ㅤ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 
 ─╼⃝𖠁-----------------𖠁⃝╾─•
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪]("t.me/pandit_Andy")""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [ᴅɪʟ[❣️]]("t.me/HONEY_SINGH_121")""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
