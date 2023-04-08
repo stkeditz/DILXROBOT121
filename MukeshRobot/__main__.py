@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.1)
-            lol.edit_text("ZΞUS ꜱᴛᴀʀᴛɪɴɢ... ")
+            lol.edit_text("˹ᴀᴀʀᴏʜɪ ✘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ˼ 🫧 ꜱᴛᴀʀᴛɪɴɢ... ")
             time.sleep(0.1)
             lol.delete()
             
@@ -404,7 +404,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="🌹sᴏᴜʀᴄᴇ🌹",
-                            url="https:/t.me/LOVE_FEELINGS_WILL",
+                            url="https://t.me/LOVE_FEELINGS_WILL",
                         ),
                     ],
                     [
